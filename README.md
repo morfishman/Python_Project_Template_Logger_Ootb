@@ -1,7 +1,3 @@
-Here’s the revised README structure with your additional instructions:
-
----
-
 # Python Project Template with Logger (Out of the Box)
 
 This Python project template comes with a pre-configured logger to help you get started quickly. Simply run the provided `.exe` file to generate a project structure with logging set up for you.
